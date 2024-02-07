@@ -1,0 +1,61 @@
+body {
+    background-color: gray;
+
+}
+
+#container {
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 5px 0 30px rgba(0, 0, 0, .1); ;
+}
+
+#formulario {
+    background-color: rgba(255, 255, 255, 0.925);
+    height: 500px;
+    width: 600px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#titulo {
+    font-size: 50px;
+    
+}
+
+#caixa {
+    align-items: center;
+    justify-content: center;
+}
+
+#peso, #altura {
+    height: 40px;
+    width: 500px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    border: none;
+    margin-bottom: 25px;
+    box-shadow: 3px 0 30px rgba(0, 0, 0, .1);
+}
+#altura{
+    margin-bottom: 50px;
+}
+
+#botao{
+height: 50px;
+width: 130px;
+border-radius: 10px;
+font-size: 20px;
+border: none;
+box-shadow: 5px 0 30px rgba(0, 0, 0, .1);
+background-color:  rgba(255, 255, 255, 0.808);
+cursor: pointer;
+}
+
+#resultado{
+    font-size: 20px;
+}
+
