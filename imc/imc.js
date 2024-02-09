@@ -1,5 +1,4 @@
-
-botao.addEventListener('click', function () {
+botao.addEventListener('click', function(){
 
     let peso = document.getElementById('peso').value
     let altura = document.getElementById('altura').value
