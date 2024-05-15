@@ -10,45 +10,13 @@ body {
 
 }
 
-.container {
-  width: 800px;
-  height: 600px;
-  display: flex;
-}
 
-.img {
-  width: 400px;
-  height: 600px;
-  background-image: url(../../images/image-product-desktop.jpg);
-  overflow: hidden;
-  background-size: cover;
-  border-radius: 10px 0 0 10px;
-}
 
-form {
-  width: 400px;
-  height: 600px;
-  border: 2px solid black;
-  border-radius: 0 10px 10px 0;
-}
 
-#img-geral {
-  width: 400px;
-  height: 600px;
-}
 
-#valor {
-  display: flex;
-  height: 80px;
-  align-items: center;
-}
 
-h1 {
-    font-family: "Fraunces", serif;
-    
-}
 
-p{
-      font-family: "Montserrat", sans-serif;
-      color:  hsl(228, 12%, 48%);
-}
+
+
+
+
